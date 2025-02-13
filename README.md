@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning JavaScript<br>👯 I’m looking to collaborate on learning Full-stack development<br>🤝 I’m looking for help with JavaScript and Back-End development<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML and CSS<br>⚡ Fun facts about me: I'm 19 years old student from Macedonia that wants to become<br>Full stack developer as soon as possible
+🔭 I’m currently working on learning React<br>👯 I’m looking to collaborate on learning Full-stack development<br>🤝 I’m looking for help with JavaScript and Back-End development<br>💬 Ask me about HTML,CSS and Javascript<br>⚡ Fun facts about me: I'm 19 years old student from Macedonia that wants to become<br>Full stack developer as soon as possible
 
 
 ## 🌐 Socials:
